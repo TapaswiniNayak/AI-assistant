@@ -246,7 +246,6 @@ def respond(voice_data):
         engine_speak("You must be somewhere near here, as per Google maps")    
 
 
-
 time.sleep(1)
 
 person_obj = person()
