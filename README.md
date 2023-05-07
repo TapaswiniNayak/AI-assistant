@@ -6,7 +6,6 @@ In today’s world, AI has taken over almost every aspect of different fields of
 Thus, NEOTREK: A Virtual Assistant based on AI is an intelligent personal assistant which can perform tasks or services for an individual based on commands or questions. 
 
 
-
 #TECHNOLOGIES USED
 
 To make a Voice recognition system, we have used the following technologies:
