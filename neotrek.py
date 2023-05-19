@@ -31,6 +31,7 @@ def there_exists(terms):
         if term in voice_data:
             return True
 
+        
 def engine_speak(text):
     text = str(text)
     engine.say(text)
