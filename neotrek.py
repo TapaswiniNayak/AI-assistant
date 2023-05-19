@@ -27,7 +27,6 @@ class asis:
         self.name = name
 
 
-
 def there_exists(terms):
     for term in terms:
         if term in voice_data:
